@@ -22,3 +22,4 @@
 
  <p>총 N개의 줄에 걸쳐서 문제의 정답을 인접행렬 형식으로 출력한다. 정점 i에서 j로 가는 경로가 있으면 i번째 줄의 j번째 숫자를 1로, 없으면 0으로 출력해야 한다.</p>
 
+![image](https://user-images.githubusercontent.com/99162434/218272707-da0cd336-9e6c-4215-b9f0-158fff5ce8b9.png)
